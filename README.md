@@ -9,8 +9,9 @@ For this program, the random choice package selects a question from the quiz_que
 
 How it works:
 
-Run the So Random Quiz Program.py file.
-Follow the instructions that proceeds. Enjoy!!
+- Run the So Random Quiz Program.py file.
+- Follow the instructions that proceeds. Enjoy!!
+  
 Thank you for checking out this 'So Random Quiz!!
 
 Project creator: Davia Howard All rights reserved!
