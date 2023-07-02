@@ -1,0 +1,15 @@
+Hi there!!
+
+Welcome to the So Random Quiz Project. This project was created using Python using its random package.
+
+Brief description of the game: This is a fun, short quiz on some random questions as stated in the quiz name mostly on countries, food, music and a little science.
+
+For this program, the random choice package selects a question from the quiz_questions created and prompts the player to answer the question thrown. If the answer the player wrote is correct, the program will add a point; a wrong answer doesn't affect the points. Each time the player answer a question and its deemed right or wrong, they are asked if they want to continue the game. If yes, the program continues and throws another question. If not, then the program ends and prints the congratulatory message, the total number of questions answered and how many did they get right.
+
+How it works:
+
+Run the So Random Quiz Program.py file.
+Follow the instructions that proceeds. Enjoy!!
+Thank you for checking out this 'So Random Quiz!!
+
+Project creator: Davia Howard All rights reserved!
